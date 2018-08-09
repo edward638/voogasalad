@@ -9,3 +9,8 @@ VOOGASalad is powerful JavaFX game authoring environment and game platform devel
 
 For this project, I developed the game data system which integrated the authoring environment and the game engine. In addition, I also worked extensively on the front end of the authoring environment, implementing a MVC design pattern for ease of future project modification.
 
+![](data/images/splash.PNG)
+
+![](data/images/flappy.PNG)
+
+![](data/images/game.PNG)
